@@ -27,7 +27,10 @@
      </ul>
     <hr>
 <p><b>RESOURCES:</b></p>
-   <a href="https://universe.roboflow.com/computer-vision/workersafety_demo"> ▸ View Dataset</a>
+   <a href="https://universe.roboflow.com/computer-vision/workersafety_demo"> ▸ View Original Dataset</a>
+   
+   
+   <a href="https://universe.roboflow.com/binary-brains/ppe-detection-npas4/dataset/2"> ▸ View Augmented Dataset</a>
    
    <a href="https://drive.google.com/drive/folders/1l3GD8ihdwSPn8iPG77oydS-V9cp3U_sZ?usp=sharing"> ▸ Click to find more Resources</a><br>
   </body>
