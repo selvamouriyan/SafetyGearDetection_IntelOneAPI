@@ -37,7 +37,7 @@
 ![System Workflow](https://user-images.githubusercontent.com/108861190/234074536-4daa420c-8e44-4066-9141-e03402cafd9b.png)
 
 
-<p><b>📄 RESOURCES:</b></p>
+<p><b>📄 RESOURCES: </b></p>
 
    <table>
    <tr>
